@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/HexVote-India/static/js/main.dfaac160.js",
+    "static/media/MapStates.png": "/HexVote-India/static/media/MapStates.a08efd5535ab291d31af.png",
+    "static/media/winningseats4.png": "/HexVote-India/static/media/winningseats4.6a530a70e7f5b5ce73b2.png",
+    "static/media/winningseats3.png": "/HexVote-India/static/media/winningseats3.9ed4f04dc17f980f1b42.png",
+    "static/media/winningseats1.png": "/HexVote-India/static/media/winningseats1.09dd2a068fe0644a59b5.png",
+    "static/media/winningseats2.png": "/HexVote-India/static/media/winningseats2.6ecd96eccf33a478c203.png",
+    "index.html": "/HexVote-India/index.html",
+    "main.dfaac160.js.map": "/HexVote-India/static/js/main.dfaac160.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dfaac160.js"
+  ]
+}
