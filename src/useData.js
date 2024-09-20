@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { csv } from 'd3';
 
 const csvUrl =
-  'https://gist.githubusercontent.com/Prateekpal41366/40340925c25a0e66b2d8fa3bf0a4713e/raw/6b7ef0b63bb50a2657d57034e561b64ceff63798/test.csv';
+  'https://docs.google.com/spreadsheets/d/e/2PACX-1vRNTrmeDke6grCJcH25n7pqSPew9SyEjCXVmE28aBo-9BgCrDDQj5GmzAzZv_eNXs8cO_Mm3t-Hd12Q/pub?gid=0&single=true&output=csv';
 
 export const useData = () => {
   const [data, setData] = useState(null);
